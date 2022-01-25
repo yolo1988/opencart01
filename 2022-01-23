@@ -1,0 +1,88 @@
+2022-01-23 00:07:54,442 INFO t.TS_001_RegisterFunctionality [main] Before Class Setup finished
+2022-01-23 00:07:54,478 INFO t.TS_001_RegisterFunctionality [main] Testing Starting
+2022-01-23 00:07:56,693 INFO t.TS_001_RegisterFunctionality [main] Everything Finished with Chrome Browser
+2022-01-23 14:31:56,620 INFO t.TS_001_RegisterFunctionality [main] Before Class Setup finished
+2022-01-23 14:31:56,649 INFO t.TS_001_RegisterFunctionality [main] Testing Starting
+2022-01-23 14:31:59,117 INFO t.TS_001_RegisterFunctionality [main] Everything Finished with Chrome Browser
+2022-01-23 14:34:54,775 INFO t.TS_001_RegisterFunctionality [main] Before Class Setup finished
+2022-01-23 14:34:54,818 INFO t.TS_001_RegisterFunctionality [main] Testing Starting
+2022-01-23 14:34:57,756 INFO t.TS_001_RegisterFunctionality [main] Everything Finished with Chrome Browser
+2022-01-23 14:35:00,905 INFO t.TS_002_LoginFunctionality [main] Before Class Setup finished
+2022-01-23 15:00:30,625 INFO t.TS_001_RegisterFunctionality [main] Testing Starting
+2022-01-23 15:00:33,388 INFO t.TS_001_RegisterFunctionality [main] Everything Finished with Chrome Browser
+2022-01-23 15:00:39,995 INFO t.TS_002_LoginFunctionality [main] loging success..exp=Valid, Test Passed...
+2022-01-23 15:07:02,657 INFO t.TS_001_RegisterFunctionality [main] Testing Starting
+2022-01-23 15:07:05,506 INFO t.TS_001_RegisterFunctionality [main] Everything Finished with Chrome Browser
+2022-01-23 15:07:13,860 INFO t.TS_002_LoginFunctionality [main] loging success..exp=Valid, Test Passed...
+2022-01-23 15:10:06,334 INFO t.TS_001_RegisterFunctionality [main] Testing Starting
+2022-01-23 15:10:08,498 INFO t.TS_001_RegisterFunctionality [main] Everything Finished with Chrome Browser
+2022-01-23 15:10:14,787 INFO t.TS_002_LoginFunctionality [main] loging success..exp=Valid, Test Passed...
+2022-01-23 15:16:31,664 INFO t.TS_001_RegisterFunctionality [main] Testing Starting
+2022-01-23 15:16:34,020 INFO t.TS_001_RegisterFunctionality [main] Everything Finished with Chrome Browser
+2022-01-23 15:16:40,483 INFO t.TS_002_LoginFunctionality [main] loging success..exp=Valid, Test Passed...
+2022-01-23 15:25:07,929 INFO t.TS_001_RegisterFunctionality [main] Testing Starting
+2022-01-23 15:25:10,525 INFO t.TS_001_RegisterFunctionality [main] Everything Finished with Chrome Browser
+2022-01-23 15:25:17,347 INFO t.TS_002_LoginFunctionality [main] loging success..exp=Valid, Test Passed...
+2022-01-23 15:32:15,494 INFO t.TS_001_RegisterFunctionality [main] Testing Starting
+2022-01-23 15:32:17,777 INFO t.TS_001_RegisterFunctionality [main] Everything Finished with Chrome Browser
+2022-01-23 15:32:24,528 INFO t.TS_002_LoginFunctionality [main] loging success..exp=Valid, Test Passed...
+2022-01-23 15:42:03,397 INFO t.TS_001_RegisterFunctionality [main] Testing Starting
+2022-01-23 15:42:05,530 INFO t.TS_001_RegisterFunctionality [main] Everything Finished with Chrome Browser
+2022-01-23 15:42:11,967 INFO t.TS_002_LoginFunctionality [main] loging success..exp=Valid, Test Passed...
+2022-01-23 15:42:12,553 INFO t.TS_002_LoginFunctionality [main] loging success..exp=valid..Test Failed(login not working)
+2022-01-23 15:42:24,490 INFO t.TS_002_LoginFunctionality [main] Exp invalid & login failed...test pased
+2022-01-23 15:42:35,969 INFO t.TS_002_LoginFunctionality [main] Exp invalid & login failed...test pased
+2022-01-23 15:42:47,387 INFO t.TS_002_LoginFunctionality [main] Exp invalid & login failed...test pased
+2022-01-23 16:16:43,337 INFO t.TS_001_RegisterFunctionality [main] Testing Starting
+2022-01-23 16:16:46,040 INFO t.TS_001_RegisterFunctionality [main] Everything Finished with Chrome Browser
+2022-01-23 16:17:02,421 INFO t.TS_002_LoginFunctionality [main] loging success..exp=valid..Test Failed(login not working)
+2022-01-23 16:18:09,414 INFO t.TS_001_RegisterFunctionality [main] Testing Starting
+2022-01-23 16:18:12,088 INFO t.TS_001_RegisterFunctionality [main] Everything Finished with Chrome Browser
+2022-01-23 16:18:28,059 INFO t.TS_002_LoginFunctionality [main] loging success..exp=valid..Test Failed(login not working)
+2022-01-23 16:23:21,975 INFO t.TS_001_RegisterFunctionality [main] Testing Starting
+2022-01-23 16:23:24,619 INFO t.TS_001_RegisterFunctionality [main] Everything Finished with Chrome Browser
+2022-01-23 16:23:31,545 INFO t.TS_002_LoginFunctionality [main] loging success..exp=Valid, Test Passed...
+2022-01-23 16:23:32,269 INFO t.TS_002_LoginFunctionality [main] loging success..exp=valid..Test Failed(login not working)
+2022-01-23 16:23:44,166 INFO t.TS_002_LoginFunctionality [main] Exp invalid & login failed...test pased
+2022-01-23 16:23:56,228 INFO t.TS_002_LoginFunctionality [main] Exp invalid & login failed...test pased
+2022-01-23 16:24:07,712 INFO t.TS_002_LoginFunctionality [main] Exp invalid & login failed...test pased
+2022-01-23 16:27:16,194 INFO t.TS_001_RegisterFunctionality [main] Testing Starting
+2022-01-23 16:27:18,889 INFO t.TS_001_RegisterFunctionality [main] Everything Finished with Chrome Browser
+2022-01-23 16:27:25,489 INFO t.TS_002_LoginFunctionality [main] loging success..exp=Valid, Test Passed...
+2022-01-23 16:27:26,388 INFO t.TS_002_LoginFunctionality [main] loging success..exp=valid..Test Failed(login not working)
+2022-01-23 16:27:38,685 INFO t.TS_002_LoginFunctionality [main] Exp invalid & login failed...test pased
+2022-01-23 16:27:50,138 INFO t.TS_002_LoginFunctionality [main] Exp invalid & login failed...test pased
+2022-01-23 16:28:01,771 INFO t.TS_002_LoginFunctionality [main] Exp invalid & login failed...test pased
+2022-01-23 16:33:10,435 INFO t.TS_001_RegisterFunctionality [main] Testing Starting
+2022-01-23 16:33:13,505 INFO t.TS_001_RegisterFunctionality [main] Everything Finished with Chrome Browser
+2022-01-23 16:33:20,068 INFO t.TS_002_LoginFunctionality [main] loging success..exp=Valid, Test Passed...
+2022-01-23 16:33:32,660 INFO t.TS_002_LoginFunctionality [main] Exp invalid & login failed...test pased
+2022-01-23 16:33:44,595 INFO t.TS_002_LoginFunctionality [main] Exp invalid & login failed...test pased
+2022-01-23 16:33:56,351 INFO t.TS_002_LoginFunctionality [main] Exp invalid & login failed...test pased
+2022-01-23 16:36:26,603 INFO t.TS_001_RegisterFunctionality [main] Testing Starting
+2022-01-23 16:36:28,643 INFO t.TS_001_RegisterFunctionality [main] Everything Finished with Chrome Browser
+2022-01-23 16:36:34,648 INFO t.TS_002_LoginFunctionality [main] loging success..exp=Valid, Test Passed...
+2022-01-23 16:36:46,985 INFO t.TS_002_LoginFunctionality [main] Exp invalid & login failed...Test Passed
+2022-01-23 16:36:58,446 INFO t.TS_002_LoginFunctionality [main] Exp invalid & login failed...Test Passed
+2022-01-23 16:37:10,149 INFO t.TS_002_LoginFunctionality [main] Exp invalid & login failed...Test Passed
+2022-01-23 16:58:40,230 INFO t.TS_001_RegisterFunctionality [main] Testing Starting
+2022-01-23 16:58:42,734 INFO t.TS_001_RegisterFunctionality [main] Everything Finished with Chrome Browser
+2022-01-23 17:02:40,602 INFO t.TS_001_RegisterFunctionality [main] Testing Starting
+2022-01-23 17:02:43,488 INFO t.TS_001_RegisterFunctionality [main] Everything Finished with Chrome Browser
+2022-01-23 17:02:50,904 INFO t.TS_002_LoginFunctionality [main] Passed Valid login working
+2022-01-23 17:02:52,825 INFO t.TS_002_LoginFunctionality [main] Passed Invalid login working
+2022-01-23 17:02:54,538 INFO t.TS_002_LoginFunctionality [main] Passed Invalid login working
+2022-01-23 17:02:55,813 INFO t.TS_002_LoginFunctionality [main] Passed Invalid login working
+2022-01-23 17:03:07,509 INFO t.TS_002_LoginFunctionality [main] failedInvalid login not working
+2022-01-23 17:09:10,492 INFO t.TS_001_RegisterFunctionality [main] Testing Starting
+2022-01-23 17:09:13,533 INFO t.TS_001_RegisterFunctionality [main] Everything Finished with Chrome Browser
+2022-01-23 17:09:20,589 INFO t.TS_002_LoginFunctionality [main] Passed Valid login success
+2022-01-23 17:09:22,209 INFO t.TS_002_LoginFunctionality [main] Passed Invalid login not success
+2022-01-23 17:09:23,904 INFO t.TS_002_LoginFunctionality [main] Passed Invalid login not success
+2022-01-23 17:09:25,612 INFO t.TS_002_LoginFunctionality [main] Passed Invalid login not success
+2022-01-23 17:09:37,964 INFO t.TS_002_LoginFunctionality [main] FAILED, login was success but expected was: Invalid
+2022-01-23 17:17:24,353 INFO t.TS_001_RegisterFunctionality [main] Testing Starting
+2022-01-23 17:17:26,620 INFO t.TS_001_RegisterFunctionality [main] Everything Finished with Chrome Browser
+2022-01-23 17:17:33,809 INFO t.TS_002_LoginFunctionality [main] Passed Valid login success
+2022-01-23 17:17:35,876 INFO t.TS_002_LoginFunctionality [main] Passed Invalid login not success
+2022-01-23 17:17:37,942 INFO t.TS_002_LoginFunctionality [main] Passed Invalid login not success

@@ -1,0 +1,20 @@
+2022-01-24 03:09:11,480 INFO t.TS_002_LoginFunctionality [main] Passed Valid login success
+2022-01-24 03:09:12,738 INFO t.TS_002_LoginFunctionality [main] Passed Invalid login not success
+2022-01-24 03:09:13,912 INFO t.TS_002_LoginFunctionality [main] Passed Invalid login not success
+2022-01-24 03:09:15,050 INFO t.TS_002_LoginFunctionality [main] Passed Invalid login not success
+2022-01-24 03:09:26,622 INFO t.TS_002_LoginFunctionality [main] FAILED, login was success but expected was: Invalid
+2022-01-24 03:13:00,564 INFO t.TS_002_LoginFunctionality [main] Passed Valid login success
+2022-01-24 03:13:01,792 INFO t.TS_002_LoginFunctionality [main] Passed Invalid login not success
+2022-01-24 03:13:02,915 INFO t.TS_002_LoginFunctionality [main] Passed Invalid login not success
+2022-01-24 03:13:04,089 INFO t.TS_002_LoginFunctionality [main] Passed Invalid login not success
+2022-01-24 03:13:15,605 INFO t.TS_002_LoginFunctionality [main] FAILED, login was success but expected was: Invalid
+2022-01-24 03:14:47,306 INFO t.TS_002_LoginFunctionality [main] Passed Valid login success
+2022-01-24 03:14:48,554 INFO t.TS_002_LoginFunctionality [main] Passed Invalid login not success
+2022-01-24 03:14:49,709 INFO t.TS_002_LoginFunctionality [main] Passed Invalid login not success
+2022-01-24 03:14:50,836 INFO t.TS_002_LoginFunctionality [main] Passed Invalid login not success
+2022-01-24 03:15:02,799 INFO t.TS_002_LoginFunctionality [main] FAILED, login was success but expected was: Invalid
+2022-01-24 16:50:41,066 INFO t.TS_002_LoginFunctionality [main] Passed Valid login success
+2022-01-24 16:50:42,471 INFO t.TS_002_LoginFunctionality [main] Passed Invalid login not success
+2022-01-24 16:50:43,865 INFO t.TS_002_LoginFunctionality [main] Passed Invalid login not success
+2022-01-24 16:50:45,157 INFO t.TS_002_LoginFunctionality [main] Passed Invalid login not success
+2022-01-24 16:50:57,054 INFO t.TS_002_LoginFunctionality [main] FAILED, login was success but expected was: Invalid
